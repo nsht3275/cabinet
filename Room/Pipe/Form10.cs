@@ -1187,7 +1187,7 @@ namespace Room
                 {
                     singlefile = (string)ncfiles[i];
                     int inx = singlefile.IndexOf(mydoc);
-                    if (inx >= 0 && singlefile.Length > mydoc.Length)
+                    if (inx >= 0 && singlefile.Length > mydoc.Length && (singlefile.Length - mydoc.Length)>=3)//2022-03-24
                     {
                         File.Delete(singlefile);
                     }

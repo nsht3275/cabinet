@@ -386,16 +386,19 @@ namespace Room
                     m_orderid = label2.Text;
                     m_orderdate = dateTimePicker1.Text;
                     string path = ConvertPrjIDToPath("", false);
-                    NetXmlEnt.CodeEnter.getInst().Delete(label2.Text);
-                    dataGridView1.Rows.RemoveAt(i);
-                    string mydoc = System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments);
-                    int inx = path.IndexOf(mydoc);
-                    if (inx >= 0 && path.Length > mydoc.Length)
+                    if (label2.Text.Length > 3)//2022-03-24
                     {
-                        DeleteDir(path);
+                        NetXmlEnt.CodeEnter.getInst().Delete(label2.Text);
+                        dataGridView1.Rows.RemoveAt(i);
+                        string mydoc = System.Environment.GetFolderPath(System.Environment.SpecialFolder.MyDocuments);
+                        int inx = path.IndexOf(mydoc);
+                        if (inx >= 0 && path.Length > mydoc.Length && (path.Length - mydoc.Length)>=3)
+                        {
+                            DeleteDir(path);
+                            MessageBox.Show("删除成功");
+                        }
+                        break;
                     }
-                    MessageBox.Show("删除成功");
-                    break;
                     //
                 }
             }
