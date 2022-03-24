@@ -797,10 +797,6 @@ namespace Room
         //退出
         private void button4_Click(object sender, EventArgs e)
         {
-            //axEWdraw1.ToDrawOrbit();
-            axEWdraw1.SaveEwd("d:\\testcompose.ewd");
-            return;
-
             if (isViewGcode)
             {//判断是否是查看G代码状态,如果是,则先退出查看代码状态
                 isViewGcode = false;
