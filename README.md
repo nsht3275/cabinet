@@ -1,4 +1,4 @@
-Cabinet是一个用C#开发的完整的家具拆单程序。Project is a complete furniture program developed in C#. 
+Cabinet是一个用C#开发的完整的家具拆单与户型设计程序。Project is a complete furniture and interior home layout design  program developed in C#. 
 =========
 该工程所需要的环境如下：
 ---------
