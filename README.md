@@ -12,6 +12,6 @@ Cabinnet是一个用C#开发的完整的家具拆单程序。Project is a comple
 ---------
 4.打开工程，编译运行即可。Open project and run.
 ---------
-注意：如果要编译Release或其它版本，需要将debug目录下的资源复制一下。
+注意：如果要编译Release或其它版本，需要将debug目录下的资源复制至对应项目目录中。
 Note: If you want to compile Release or other versions, you need to copy the resources in the debug directory. 
 ---------
