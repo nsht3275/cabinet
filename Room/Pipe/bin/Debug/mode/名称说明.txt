@@ -1,0 +1,53 @@
+范围：长 宽 高
+
+第一类 chuang 窗
+chuang1 窗 chuang1 (1470 39 1749)
+chuang2 窗 chuang2 (3464 434 2613)
+chuang3 窗 chuang3 (3400 39 1750)
+chuang4 窗 chuang4 (2310 874 1929)
+chuang5 窗 chuang5 (3024 63 1766)
+chuanglian1 窗 chuanglian5 (3373,196,2914)
+
+第二类 ctgzh  餐厅柜组合
+ctgzh1  餐厅柜组合 ctgzh1 (2116 295 2144)
+
+第三类czh    床组合
+czh1    床组合  czh1 (2940 3161 2291)
+czh2    床组合  czh2 (2785 2453 1124)
+czh3    床组合  czh3 (3292 3316 1185)
+
+第四类czyzh  餐桌椅组合
+czyzh1  餐桌椅组合 czyzh1 (1907 3252 912)
+czyzh2  餐桌椅组合 czyzh2 (3490 2327 1239)
+czyzh3  餐桌椅组合 czyzh3 (2631 1561 1558)
+czyzh4  餐桌椅组合 czyzh4 (1501 1833 1228)
+
+第五类dsgzh  电视柜组合
+dsgzh1  电视柜组合  dsgzh1(2513 473 1432)
+dsgzh2 电视柜组合   dsgzh2 (1832 528 1443)
+dsgzh3  电视柜组合  dsgzh3 (2627 577 1715)
+
+
+第六类dsqzh  电视墙组合
+dsqzh1  电视墙组合 dsqzh1 (3917 476 2400)
+dsqzh2  电视墙组合 dsqzh2 (3699 455 2600)
+dsqzh3  电视墙组合 dsqzh3 (4988 801 2500)
+
+第七类men    门
+baimen1    门 baimen1 (873 226 2044)
+baimen2    门 baimen2 ( 776 226 2059) 
+ldm        门 ldm1 (2440 264 2080)
+men3       门 men3 (1032 195 2072)
+
+第八类sfcjzh 沙发茶几组合
+sfcjzh1 沙发茶几组合 sfcjzh1 (3943 2847 1036)
+sfcjzh2 沙发茶几组合 sfcjzh2 (3426 2130 1067)
+sfcjzh3 沙发茶几组合 sfcjzh3 (3498 1062 934)
+sfcjzh4 沙发茶几组合 sfcjzh4 (3944 2839 1046)
+sfcjzh5 沙发茶几组合 sfcjzh5 (4598 3268 2058)
+
+第九类zshua  装饰画
+zshua1  装饰画 zshua1 (2148 19 864)
+zshua2  装饰画 zshua2 (1273 45 118)
+zshua3  装饰画 zshua3 (1599 9 1055)
+zshua4  装饰画 zshua4 (1632 359 938)

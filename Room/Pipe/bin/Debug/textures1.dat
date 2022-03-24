@@ -1,0 +1,6 @@
+//名称;文件名;bump图;目录名;长;宽;材质索引;状态1(如果为1,则表示是否加上地面反射);状态2(该颜色对应的ID);
+暗花墙纸;wall_0.jpg;wall_0.jpg;textures;800;800;6;1;0
+蓝布纹;wall_1.jpg;;textures;800;800;5;0;0
+卡其布纹;wall_2.jpg;wall_2.jpg;textures;800;800;5;1;0
+黑色格子壁纸;wall_3.jpg;wall_3_bump.jpg;textures;1600;800;35;0;0
+白格瓷砖;wall_4.jpg;wall_4.jpg;textures;200;200;1;0;0

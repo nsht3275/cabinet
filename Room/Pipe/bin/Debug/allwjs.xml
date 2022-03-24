@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<ArrayOfCaiLiaoEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191224101738</Id>
+    <Name>三合一</Name>
+    <Color>D15</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>0.5</Unit>
+    <Memo />
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191224101748</Id>
+    <Name>二合一</Name>
+    <Color>D20</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>0.5</Unit>
+    <Memo />
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191224101807</Id>
+    <Name>木楔</Name>
+    <Color>D8</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>0.1</Unit>
+    <Memo />
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200121154130</Id>
+    <Name>滑轨</Name>
+    <Color>D13</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>1.5</Unit>
+    <Memo />
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200213141236</Id>
+    <Name>衣通</Name>
+    <Color>木质</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>6.5</Unit>
+    <Memo>&lt;=50</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200217105313</Id>
+    <Name>衣通</Name>
+    <Color>木质</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>11.5</Unit>
+    <Memo>&gt;50 &amp; &lt;=80</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200217105404</Id>
+    <Name>衣通</Name>
+    <Color>木质</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>16.5</Unit>
+    <Memo>&gt;80 &amp; &lt;=100</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200217105434</Id>
+    <Name>衣通</Name>
+    <Color>木质</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>21.5</Unit>
+    <Memo>&gt;100 &amp; &lt;=120</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200217105504</Id>
+    <Name>衣通</Name>
+    <Color>木质</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>26.5</Unit>
+    <Memo>&gt;120 &amp; &lt;=140</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>200217105528</Id>
+    <Name>衣通</Name>
+    <Color>木质</Color>
+    <Width />
+    <Height />
+    <Texture />
+    <Class />
+    <Thickness />
+    <Unit>36.5</Unit>
+    <Memo>&gt;140 &amp; &lt;=160</Memo>
+  </CaiLiaoEntity>
+</ArrayOfCaiLiaoEntity>

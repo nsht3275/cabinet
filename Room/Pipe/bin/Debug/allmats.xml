@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<ArrayOfCaiLiaoEntity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191218094134</Id>
+    <Name>多层板</Name>
+    <Color>胡桃</Color>
+    <Width>1220</Width>
+    <Height>2440</Height>
+    <Texture />
+    <Class />
+    <Thickness>5</Thickness>
+    <Unit>128</Unit>
+    <Memo>多吉</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191218100142</Id>
+    <Name>多层板</Name>
+    <Color>胡桃</Color>
+    <Width>1220</Width>
+    <Height>2440</Height>
+    <Texture />
+    <Class />
+    <Thickness>12</Thickness>
+    <Unit>158</Unit>
+    <Memo>多吉</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191218100212</Id>
+    <Name>胶合板</Name>
+    <Color>橡木</Color>
+    <Width>1220</Width>
+    <Height>2440</Height>
+    <Texture />
+    <Class />
+    <Thickness>18</Thickness>
+    <Unit>224</Unit>
+    <Memo>大新</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191218100242</Id>
+    <Name>环保大芯板</Name>
+    <Color>曲柳</Color>
+    <Width>1220</Width>
+    <Height>2440</Height>
+    <Texture />
+    <Class />
+    <Thickness>18</Thickness>
+    <Unit>268</Unit>
+    <Memo>大新</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191218144438</Id>
+    <Name>多层板</Name>
+    <Color>暖白色</Color>
+    <Width>1220</Width>
+    <Height>2440</Height>
+    <Texture />
+    <Class />
+    <Thickness>6</Thickness>
+    <Unit>286</Unit>
+    <Memo>大新</Memo>
+  </CaiLiaoEntity>
+  <CaiLiaoEntity>
+    <IsCheck>false</IsCheck>
+    <Id>191218162818</Id>
+    <Name>多层板</Name>
+    <Color>白色</Color>
+    <Width>1220</Width>
+    <Height>2440</Height>
+    <Texture />
+    <Class />
+    <Thickness>18</Thickness>
+    <Unit>280</Unit>
+    <Memo>多吉</Memo>
+  </CaiLiaoEntity>
+</ArrayOfCaiLiaoEntity>

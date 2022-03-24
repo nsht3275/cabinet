@@ -1,0 +1,6 @@
+//名称;文件名;bump图;目录名;长;宽;材质索引;状态1(如果为1,则表示是否加上地面反射);状态2(该颜色对应的ID);
+木质地面0;wood_0.jpg;;textures;1600;1600;3;1;0
+木质地面1;wood_1.jpg;wood_1_bump.jpg;textures;1600;800;3;0;0
+木质地面2;wood_2.jpg;wood_2_bump.jpg;textures;1600;500;3;0;0
+白花石材;dls_0.jpg;dls_0_bump.jpg;textures;800;800;15;1;0
+黑色地面;black.jpg;dls_0_bump.jpg;textures;800;1600;15;1;0
