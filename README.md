@@ -8,7 +8,7 @@ Cabinet是一个用C#开发的完整的家具拆单与户型设计程序。Proje
 ---------
 3.安装EWDraw 3D ActiveX控件。Install EWdraw 3D ActiveX.
 ---------
-[EWDraw控件](http://eastwindsoft.com/ftpman/setup_ult_v15.exe)
+[EWDraw控件](http://www.eastwindsoft.com/ftpman/setup_ult_v15.exe)
 ---------
 4.打开工程，编译运行即可。Open project and run.
 ---------
